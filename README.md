@@ -1,4 +1,4 @@
-# CloudComputingAssignment2
+# Cloud Computing Assignment 2
 Assignment 2 for Cloud Computing
 
 
